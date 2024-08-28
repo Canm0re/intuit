@@ -1,4 +1,3 @@
 # intuit
 
-[<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@zenfulnote/video/7253113759110090030" data-video-id="7253113759110090030" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@zenfulnote" href="https://www.tiktok.com/@zenfulnote?refer=embed">@zenfulnote</a> A fee seconds to unmask your shadow self 🥹❤️ comment below your experience. Its a safe space.  <a title="zenfulnote" target="_blank" href="https://www.tiktok.com/tag/zenfulnote?refer=embed">#zenfulnote</a> <a title="shadowworktherapy" target="_blank" href="https://www.tiktok.com/tag/shadowworktherapy?refer=embed">#ShadowWorkTherapy</a> <a title="journeytohealing" target="_blank" href="https://www.tiktok.com/tag/journeytohealing?refer=embed">#JourneyToHealing</a> <a title="soulexploration" target="_blank" href="https://www.tiktok.com/tag/soulexploration?refer=embed"> </blockquote>
-](https://www.tiktok.com/@zenfulnote/video/7253113759110090030)
+[rikor](https://www.tiktok.com/@zenfulnote/video/7253113759110090030)
