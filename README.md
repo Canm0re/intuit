@@ -254,7 +254,7 @@ how we are tackling this:
 
 https://pomodoroartifact.vercel.app/
 
-the vision:
+the vision: Decrease overwhelm and increase productivity
 
 
 
