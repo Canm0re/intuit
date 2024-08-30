@@ -167,7 +167,7 @@ that's the role of WhyCombinator is for us to know their goal and push them to u
 
 ### focus clubs market
 
-[Flown](FLOWN story and mission](https://flown.com/about/story-and-mission), [FocusMate](https://www.focusmate.com/), Flow.Club, [Caveday](https://www.caveday.org/), and [Co-Focus](https://www.cofocus.one/)
+[Flown](https://flown.com/about/story-and-mission), [FocusMate](https://www.focusmate.com/), Flow.Club, [Caveday](https://www.caveday.org/), and [Co-Focus](https://www.cofocus.one/)
 
 all of them work the same exact way
 
