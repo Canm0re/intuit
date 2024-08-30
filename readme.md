@@ -171,8 +171,8 @@ that's the role of WhyCombinator is for us to know their goal and push them to u
 
 all of them work the same exact way
 
-focusmate: ![](https://imgur.com/a/RBN6X6r)
-flow club:![](https://imgur.com/vrPEyb3)
+focusmate: ![](https://i.imgur.com/sLDMGgF.png)
+flow club:![](https://i.imgur.com/vrPEyb3.jpeg)
 so how's mine going to better?
 
 1. no need to schedule you can join at anytime
