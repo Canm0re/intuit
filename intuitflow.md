@@ -1,5 +1,3 @@
-# intuitflow
-
 # The Market
 
 Global education is a $10 trillion industry.
@@ -31,8 +29,9 @@ With IntuitFlow, customers can prioritize tasks, eliminate distractions, and set
 - I used to hold a marketing position in an early fintech startup (Tutipay)
 - I'm 23 with diagnosed with ADHD, but I can't afford medication. 
 - I have built a web app to help me with motivation and focus It has helped me tremendously, i have shown it to other and received positive feedback
+	- https://pomodoroartifact.vercel.app/
 
-## The main product: Live Cohort based courses
+## Monetization: Live Cohort based courses
 - More interactive than DIY platforms (kajabi, udemy and skillShare)
 - less expensive than one-on-one mentoring (intro.co, GrowthMentor and Plato).
 - **semi-private model**: 8 students working in real time with an instructor
@@ -119,7 +118,7 @@ making an app that asks you simple questions
 
 The app would start with a simple self exploration quiz where you swipe left or right based on what you want
 
-**![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUdj1EghbDNB1KX3ZBY_3t5ApmaVr0Y2z4Uf8J5_CCPp49Ub411D99W8A_bdsnIkL63KPcoIlH3iHVokBlva1q4QsZmpDBkm3L3n73wtclFbcnOSJs31BtMZYFLxBL2XCqGioER9kaY_rwVVWJ6_bPAEKVb-lhKS=s2048?key=vhyQIrxFMVYBLo48lVS8OQ)
+![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUdj1EghbDNB1KX3ZBY_3t5ApmaVr0Y2z4Uf8J5_CCPp49Ub411D99W8A_bdsnIkL63KPcoIlH3iHVokBlva1q4QsZmpDBkm3L3n73wtclFbcnOSJs31BtMZYFLxBL2XCqGioER9kaY_rwVVWJ6_bPAEKVb-lhKS=s2048?key=vhyQIrxFMVYBLo48lVS8OQ)
 
 A friendly ai powered avatar Will give you affirmations along the way It will start asking you bigger questions “Writing” is hard but ai powered **chat** is not
 
@@ -159,7 +158,51 @@ because the app #21, #36, #37, #42 in the Trivia category are **All** Would you 
 
 A friendly ai powered avatar Will give you affirmations along the way It will start asking you bigger questions like the ones from the JP course
 You can pay and get a report that presents all your values and desires in a nice shareable
+
+
+>When you want someone to do something, it's important to connect **their goals** to the step you're asking them to take.
+
+that's the role of WhyCombinator is for us to know their goal and push them to use our focus club 
 ## The Focus Club
+
+### focus clubs market
+
+[Flown](FLOWN story and mission](https://flown.com/about/story-and-mission), [FocusMate](https://www.focusmate.com/), Flow.Club, [Caveday](https://www.caveday.org/), and [Co-Focus](https://www.cofocus.one/)
+
+all of them work the same exact way
+
+focusmate: ![](https://imgur.com/a/RBN6X6r)
+flow club:![](https://imgur.com/vrPEyb3)
+so how's mine going to better?
+
+1. no need to schedule you can join at anytime
+2. you can do it solo if you like
+One of the big features of using such an app is the fact that you can work with other people simultaneously. But it's also possible to gain 80% of those benefits without a present accountability buddy
+
+The ADHD community realized that having a someone watch over you or work alongside is an effective strategy, it helps you stay focused on tasks by creating accountability, Knowing someone is there to support you helps to overcome the urge to procrastinate or delay tasks and it helps with energy and motivation.
+
+but there are other things that can also be used that do not require a buddy.
+my solution can function even if no one else is there.
+
+I think that it's possible to gain at least 80% of the benefits of having a buddy.
+by asking the customer good questions.(ADHD coaching as a software)
+[video demo](https://youtu.be/NVb_nsIl6GE)
+
+"my advice don't compete"
+
+Okay, I will not complete. I will dominate. Because my product is literally better and free, I will have the customers I want. And my monetization is so much better than theirs because it's cohort-based courses, which sell for a much higher price than any other form of information delivery.
+
+The idea is simple: people love this. therefore they're going to want more of it nobody's doing **more** because it uNsCaLeaLAbLBe (By more, I mean a higher level of service i.e. more handholding)
+
+"if you're going into market with existing competitors or potential competitors build very fast, efficiently, and quickly validate if there's money."
+
+how can you create products when your customers can just ask ai to make it for them?
+
+That is the key software innovation that I want to build into my product it's literally just Claude Artifact.
+
+Which is open source, by the way. So all I have to do is a button that sends the prompt into Artifact, and the code will just run. There is an open source project that does exactly that. It's literally just Claude Artifact.
+
+
 
 ### Aspirational Brand & exclusive community
 “A fit body, a calm mind, a house full of love. These things cannot be bought they must be earned.”—naval Ravikant
@@ -250,12 +293,8 @@ how we are tackling this:
    - Set realistic expectations
 	   - after the focus session is over we reflect with user on how much they accomplished and how much were they expecting
 
-https://pomodoroartifact.vercel.app/
 
-the vision: Decrease overwhelm and increase productivity
-
-
-
+second [demo](https://youtu.be/4bntFC1gV9w)
 
 # This is Not a moon shot project this is a mission to the moon
 I can't lose I have the Forces of nature on my side
