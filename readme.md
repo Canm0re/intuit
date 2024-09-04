@@ -219,7 +219,8 @@ it's basically guided journaling exercises to invoke a self reflection
 example questions:
 > - If you could choose only one thing that you could do better, what would it be?
 > - People you automatically admire have qualities that you would like to possess or imitate. Identifying those qualities can help you determine who it is that you want to be. Take a moment to think about the two or three people you most admire. Who are they? Which qualities do they possess that you wish you had?
-> - Friends and associates are an important part of a meaningful, productive life. Take a moment to consider your social network. Think about the friends you might want to have, and the connections you might want to make. It is perfectly reasonable to choose friends and associates who are good for you. Describe your ideal social life.
+> - Friends and associates are an important part of a meaningful, productive life. Take a moment to consider your social network. Think about the friends you might want to have, and the connections you might want to make. It is perfectly reasonable to choose friends and associates who are good for you.
+> - Describe your ideal social life.
 
 he tested it on 85 students who were struggling academically, and the students' collective GPA rose by 29 percent in a single semester. 
 The problem with it is: Itʼs tough to do 4 hours of work! Writing is hard.
