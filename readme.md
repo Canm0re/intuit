@@ -94,8 +94,11 @@ By enabling this shift towards more valuable, interactive learning experiences, 
 
 ## Business Model:
 **Revenue Streams:**
+
 A. Selling our own courses using our instructor network.
+
 B. monetizing the course creators:
+
 1. Platform Fee: Percentage of revenue from each cohort-based course.
 2. Instructor Matching Fee: For pairing qualified instructors with courses.
 3. Premium Features: Additional tools and services for course creators.
