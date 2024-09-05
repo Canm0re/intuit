@@ -57,6 +57,7 @@ IntuitFlow is revolutionizing online education with our AI-enhanced, cohort-base
    - Frictionless video testimonials can be collected during live sessions.
 
 6. Two-Tier Approach:
+
    A. Focus Club (Free): 
       - Community-driven accountability system to keep learners engaged and motivated.
       - Users can join focus sessions with peers, set goals, and track progress.
