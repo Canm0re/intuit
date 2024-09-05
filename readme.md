@@ -1,4 +1,4 @@
-# IntuitFlow: Revolutionizing Online Education with Live, AI-Enhanced Cohort Learning"
+# IntuitFlow: Revolutionizing Online Education with Live, AI-Enhanced Cohort Learning
 
 ## Bridging the gap between DIY courses and expensive 1-on-1 mentoring, IntuitFlow delivers 75% completion rates and 4.5x earning potential for instructors
 
