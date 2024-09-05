@@ -109,11 +109,17 @@ With IntuitFlow, customers can prioritize tasks, eliminate distractions, and set
 
 ## Quick intro
 I'm Awab, a 23-year-old entrepreneur with a unconventional journey that uniquely positions me to revolutionize online education.
+
 Born in Sudan, I challenged societal norms from a young age, This independent mindset led me to drop out of high school and pursue entrepreneurship.
+
 At 19, I founded an online comic book store, negotiating low production costs and personally leading a grassroots marketing campaign. I taught myself JavaScript to develop a custom CRM
+
 My entrepreneurial journey continued with a validated tutoring business idea and a stint at a fintech startup, where I initially approached the CEO for advice on my own venture. These experiences honed my skills in customer acquisition, product development, and market analysis.
+
 Living with ADHD, I've experienced firsthand the challenges of traditional education systems. This led me to create IntuitFlow, a web app that has already received positive feedback for increasing productivity and focus.
-My diverse background - from challenging cultural norms to bootstrapping businesses - has equipped me with the resilience, creativity, and problem-solving skills necessary to tackle the complex issues in online education. With IntuitFlow, I'm not just building a product; I'm on a mission to transform how people learn and teach in the digital age.
+
+My diverse background - from challenging cultural norms to bootstrapping businesses - has equipped me with the resilience, creativity, and problem-solving skills necessary to tackle the complex issues in online education. 
+With IntuitFlow, I'm not just building a product; I'm on a mission to transform how people learn and teach in the digital age.
 https://pomodoroartifact.vercel.app/
 
 
