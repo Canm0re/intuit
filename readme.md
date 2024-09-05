@@ -138,9 +138,7 @@ but the paid feature is you can join a class hosted by teacher to learn and most
 
 
 ## 1. WhyCombinator
-"how would you like to spend your life?" answering this question will add meaning to life and enhance its quality.
-there is a line of questioning that can be used to slowly ramp a person until they are ready to answer this big question
-This apps main purpose for us is it will be used as a funnel and move the customers to the discord server
+This is a mobile app it's main purpose is it will be used as a funnel to the discord server
 
 ### The problem WhyCombinator solves: The Focus problem
 
@@ -150,14 +148,16 @@ The app helps you answer the question "how would you like to spend your life?"
 answering this question will add meaning to life and enhance its quality.  
 there is a line of questioning that can be used to slowly ramp a person until they are ready to answer the big question  
   
-The app's main purpose for us is that it will be used to capture leads and move the customers down the funnel where they can start doing the thing they said they want to do
+The app's main purpose is to capture leads and move the customers down the funnel where they can start doing the thing they said they want to do
+
+
+### Build to be viral
 
 - Law of attraction: Keep thinking of the goal
 - Atomic habits: Goals are good, but systems are better
 - Common advice: "Don't overcomplicate it"
 
-### Why These Ideas Are Popular
-
+**These things are viral because:**
 - They are all indirect & unique
 	- unique as in they address the same problem using a different metaphor  
 	- indirect because You have to talk to them about their **perceived** problem 
@@ -170,18 +170,14 @@ The app's main purpose for us is that it will be used to capture leads and move 
 - We want to know what we want
 
 This Desire to know stems from **overwhelm**
-overwhelm is not knowing what do do or choose.
+overwhelm is not knowing what to do or choose.
 
 ### How people go about solving it today
 People want their problems to be solved for them They want to press a button and get answers.
 
-like what 
-
-The shadow work journal capitalized very well on this phenomena: 
-
 - People want their problems solved for them
 - They seek quick answers
-- Popular methods:
+- **Popular methods:**
   - Journals
 	  - [This TikTok out-sold elonʼs biography](https://www.tiktok.com/@zenfulnote/video/7253113759110090030)& [this tiktok made $1M in revenue](https://www.tiktok.com/@antsofromthebando/video/7273228835041185067)(Allegedly)
   - BuzzFeed quizzes
@@ -199,6 +195,7 @@ The shadow work journal capitalized very well on this phenomena:
   - Ikigai
 	  - The fact that everybody is familiar with this concept is proof.
   - Personality tests
+  	- As of July 2024, 16Personalities.com receives approximately 22.3 million visits per month
   - Rise of the online father figures: Jordan b Peterson, Andrew Tate and Joe Rogan 
 
 The popularity of these activities reflect the human desire for self-knowledge and the need to understand oneʼs place in the world. They often provide a means for individuals to reflect on their personal values, beliefs, and experiences. Moreover, they can offer a sense of comfort and control in an unpredictable world by giving the illusion of foresight and self-determination. The popularity of such activities across different cultures indicates that the quest for meaning is a universal aspect of the human experience. It underscores the importance of narrative and storytelling in identity formation, as people use these tools to construct and make sense of their life stories.
@@ -244,9 +241,9 @@ So the app would start with simple self exploration quiz where you swipe left or
 
 **but why do it this way?**
 because the success of Smash or pass
-because the app #21, #36, #37, #42 in the Trivia category are **All** Would you rather games
+because the app #21, #36, #37, #42 in the Trivia category are **All** "Would you rather" games
 
-- The unique mechanism of a chatbot will inspire hope because chatting is much easier than journaling
+- The unique mechanism of a chatbot will inspire hope because chatting is much easier than journaling and it's new.
 
 A friendly ai powered avatar Will give you affirmations along the way It will start asking you bigger questions like the ones from the JP course
 You can pay and get a report that presents all your values and desires in a nice shareable
