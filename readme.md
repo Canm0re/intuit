@@ -3,7 +3,7 @@
 ## Bridging the gap between DIY courses and expensive 1-on-1 mentoring, IntuitFlow delivers 75% completion rates and 4.5x earning potential for instructors
 
 
-## The Problem and Market Opportunity:
+## The Market Opportunity:
 
 The education landscape is shifting away from formal education:
 
@@ -15,7 +15,7 @@ This shift indicates that while the overall demand for education remains stable,
 
 IntuitFlow is uniquely positioned to capitalize on this shift while solving persistent problems in online education.
 
-**Persistent Challenges in Online Education:**
+## The Problem
 - 70% of enrolled customers never start their paid courses.
 - Platforms like Udemy report only 6% completion rates.
 - 85% of instructors on major platforms make less than $100/month.
