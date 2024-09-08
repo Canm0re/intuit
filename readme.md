@@ -147,4 +147,4 @@ With IntuitFlow, I'm not just building a product; I'm on a mission to transform 
 
 
 
-##### I'm Asking for $10,000 to build an mvp focus club on discord's embeded app platform and start building a discord community 
+##### I'm Asking for $50,000 to build an mvp focus club on discord's embeded app platform and start building a discord community 
