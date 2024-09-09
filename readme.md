@@ -144,7 +144,3 @@ Living with ADHD, I've experienced firsthand the challenges of traditional educa
 
 My diverse background - from challenging cultural norms to bootstrapping businesses - has equipped me with the resilience, creativity, and problem-solving skills necessary to tackle the complex issues in online education. 
 With IntuitFlow, I'm not just building a product; I'm on a mission to transform how people learn and teach in the digital age.
-
-
-
-##### I'm Asking for $50,000 to build an mvp focus club on discord's embeded app platform and start building a discord community 
