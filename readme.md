@@ -1,4 +1,4 @@
-# increase the sale of cohort-based courses
+# increase the sales of cohort-based courses
 
 The e-learning market, which includes online courses, was valued at **$250 billion in 2023** and is expected to reach **$490.20 billion by 2029**, growing at a CAGR of **11.88%**[Arizton](https://www.arizton.com/market-reports/e-learning-market-size-2024)
 
