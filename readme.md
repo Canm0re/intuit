@@ -143,4 +143,4 @@ we write good emails
 
 what Shopify did for E-commerce we are doing for CBC
 
-we want to grow beyond that and create our own platform where the instructors, courses and community is all ours that's how we can build a $1B company
+we want to grow beyond that and create our own platform where the instructors, courses and community is all ours that's how we can build a $10B company
