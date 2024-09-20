@@ -1,148 +1,120 @@
-# increase the sales of cohort-based courses
+**We take Massive Open Online Courses (MOOC) and deliver a Cohort-Based Course (CBC) to your audience**
 
-The e-learning market, which includes online courses, was valued at **$250 billion in 2023** and is expected to reach **$490.20 billion by 2029**, growing at a CAGR of **11.88%**[Arizton](https://www.arizton.com/market-reports/e-learning-market-size-2024)
+**Everything** you need to run a CBC
 
-There are 3 ways to deliver education online:
+CRM, sales, scheduling, instructors and a community + newsletter 
 
-DIY, semi-private and 1-on-1
+The influencer sends traffic and he receives revenue
+Traffic  --->  Revenue
 
-DIY or self paced have failed to educate effectively:
-- traditional online courses see 6% completion rates
-- 70% of enrolled customers never start their paid courses.
+imagine your a **Marketer** selling a how to make money online MOOC
 
-The most profitable model for course creators is semi-private because the perceived value of a high touch service is much higher than video-on-demand, allowing course creators to sell their knowledge for a higher price
+you could increase your price by 5X by offering your customers a CBC
 
-IntuitFlow is a semi-private learning platform
-**Semi-private model**: 8 students work in real-time with an instructor for a personalized and interactive learning environment.
+You want tools to automate and simplify service delivery.
 
-It's better for students: **10x more likely to have a successful learning outcome**
-live cohort classes achieve a 75% completion rate.
-
-let's take fireship.io as an example he sells $20 video courses about Linux and JavaScript frameworks
-
-what if he could also offer a $700 guided version with a minimal time investment and zero upfront cost to him?
-
-our offer to him is
-**we will find and pay an instructor to deliver his curriculum** in return of a percent of the revenue
-
-**The benefits or course creators**:
-They can focus on what they do best - packaging and marketing their courses - while still offering the premium, high-touch experience that cohort-based learning provides. They can command higher prices for their courses, scale beyond their personal time limitations, and reach a larger audience
-
-   - Enhanced Discoverability within our app ecosystem.
-   - Creators can link their own Discord server, engaging directly with students.
-   - Easy video testimonial collection through live sessions.
-   - Verified reviews from paying customers who completed courses.
-   - We can provide skilled instructors for creators who want to focus solely on content and marketing.
-   - Streamlined payments and ability to offer trusted money-back guarantees.
-   -  Not competing with creators: We recognize that online course buyers are likely to purchase multiple courses, expanding the overall market.
-
-the value proposition for students is:
-instead of paying for information
-
-we guarantee you will be able to (do this thing) in (this time period) or your money back
-you have to show up to every class and do the assignments, we provide accountability.
-
-this model ensures they receive the benefits of live, instructor-led sessions, including real-time feedback, personalized attention, and the opportunity to learn alongside peers. They get the marketing and curriculum from the course creators they admire, combined with instruction from skilled educators who can effectively facilitate learning
-
-## The Problem
-- 85% of instructors on major platforms make less than $100/month selling DIY courses
-- platforms lack proper guidance but one-on-one mentoring is too expensive for most learners.
+you want:
+- instructors
+- accountability
+- to keep track of customer success
+- space for students to ask questions
 
 
-**Why now?**
-Because there were not as many people like Fireship.io selling courses as there is now.
+we want to only serve high status influential clients and serve them with custom solutions with no downside to them
 
-the creator economy, which includes these elements, was estimated to grow from $127.65 billion in 2023 to $528.39 billion by 2030, growing at a CAGR of 22.5% [coherent](https://www.coherentmarketinsights.com/industry-reports/global-creator-economy-market#:~:text=North%20America%3A%20North%20America%20is,by%20influencers%20and%20individual%20creators)
+- we handle sales
+- students receive guarantees
+- we take a cut of the revenue
+- no upfront costs on the influencers
 
-People are just learning the power of selling information products and utilizing social media to sell high margin products.
+The best selling courses are best selling because the course creators are good marketers not because they made great courses
 
-How will we be able to get instructors to provide this tutoring service?
-Because these instructors are making $30 an hour, selling one-on-one tutoring. But if they sell a group of eight, and they sell it for $10 an hour each, then they will be making more money for the same amount of teaching time.
+but those courses can be much higher priced if they were a high touch CBC
 
-how are going to build an audience to sell courses too?
-
-**free focus club**
- Community-driven accountability system to keep learners engaged and motivated.
-      - Users can join focus sessions with peers, set goals, and track progress.
-      - Leverages Discord's social features for organic growth and engagement.
-
-### focus clubs market
-
-[Flown](https://flown.com/about/story-and-mission), [FocusMate](https://www.focusmate.com/), Flow.Club(YC [Backed](https://www.ycombinator.com/companies/flow-club)), [Caveday](https://www.caveday.org/), and [Co-Focus](https://www.cofocus.one/)
-
-all of them work the same exact way
-1. Book a session
-2. Join
-3. share your goal
-4. work
-
-so how's IntuitFlow going to better?
-
-1. no need to schedule you can join at anytime
-2. you can do it solo if you like
-
-The main feature of using such a service is that you can work with other people simultaneously. But it's also possible to gain 80% of those benefits without a present accountability coach
-by simply asking them questions that clarify their goal and break it down to manageable chunks
-
-> how can you create products when your customers can just ask ai to make it for them?
-
-That is the key software innovation that we'll build into the focus it's literally just Claude Artifact.
-
-the main **Benefit** of using a focus club is the reduction of overwhelm
-
-Overwhelm is a symptom of high demand and in low certainty
-
->Overwhelm =  ⬆️demand+⬇️certainty
-
-how we are tackling this?
-**Decrease mental demand:**
-   - Prioritize
-	   - before you start working you are prompted to state what you are trying to accomplish
-		   - “What's the ONE thing I can do, such that by doing it, everything else will be easier or unnecessary?”
-   - Eliminate distractions
-	   - Instead of fighting the urge we have features to block you from accessing distractions for the duration of the session
-   - Delegate/schedule
-	   - an idea or a task pops up while you are in a session? a notes feature can help you preserve that idea and continue working
-
-**Increase certainty:**
-   - Prepare
-	   - breakdown the task into a clear next steps
-   - Clarify
-	   - "Why is this important and valuable?"
-   - Set realistic expectations
-	   - after the focus session is over we reflect with user on how much they accomplished and how much were they expecting
-
->Artists and Athletes practice so that they could improve their performance. What if knowledge workers could also practice and Improve their performance?
+we want to give those world class social media marketers the best instructors
 
 
-**How will we grow this focus club?**
-using Engineered Word-of-Mouth:
-   - Leveraging Discord's Social Graph: We tapping into an existing social networks where our target users already spend their time.
-   - Real-Time Visibility: Using Discord's game activity feature, IntuitFlow sessions will be visible to friends in real-time, with a one-click join option.
-   - In-Chat Integration: Our app runs directly within Discord chat, making it visible where users naturally congregate.
-   - Instant, Frictionless Onboarding: Friends can join sessions instantly with no installation required, reducing barriers to entry.
-   - Discovery via Discord Directory: Leveraging Discord's built-in discovery features for organic growth.
-   - Enhancing Existing Communities: We're not asking users to change habits, but enhancing their current ones. For instance, in servers where 400+ people are already on video calls working together, IntuitFlow will seamlessly integrate to improve their experience.
 
-   This approach ensures recurring organic exposure on a major social network, which is crucial for habit formation and sustained growth. By piggybacking on Discord's established social infrastructure, we're creating a powerful, self-perpetuating growth engine.
 
-   - Higher completion rates and live interactions provide natural opportunities for testimonials and referrals.
-   - Frictionless video testimonials can be collected during live sessions.
+# The Case against MOOCs
+- educational content is cheap and abundant
+	- excess of free content and low priced online learning
+	- on Udemy, students pay an average of just $15 on courses
+	- if it's not cheap they can be pirated.
 
-# The mission:
-With IntuitFlow, customers can prioritize tasks, eliminate distractions, and set realistic goals. We help you stay focused on long-term goals in a world full of distractions and instant gratification and if you want extra help to learn a specific subject instructors and courses are available to help
-- The mission: **help people decrease overwhelm and increase productivity.**
+second order effect is **learners are actually _worse_ off for all this cheap, abundant content** 
 
-## Quick intro
-I'm Awab, a 23-year-old entrepreneur with a unconventional journey that uniquely positions me to revolutionize online education.
+More Access **≠** More Engagement
 
-Born in Sudan, I challenged societal norms from a young age, This independent mindset led me to drop out of high school and pursue entrepreneurship.
+- MOOCs have [3-6%](https://www.researchgate.net/publication/330316898_The_MOOC_pivot) completion rates
+- 70% of enrolled customers **Never Start** their paid courses.
 
-At 19, I founded an online comic book store, negotiating low production costs and personally leading a grassroots marketing campaign. I taught myself JavaScript to develop a custom CRM
+Anyone can access a workout and diet plan, but very few actually stick with it long enough to see results, That's how MOOCs work.
 
-My entrepreneurial journey continued with a validated tutoring business idea and a stint at a fintech startup, where I initially approached the CEO for advice on my own venture. These experiences honed my skills in customer acquisition, product development, and market analysis.
+Tasks without a set timeline often lose out to those that are more urgent. Because you can watch and learn at any time with MOOCs, there’s no built-in urgency.
 
-Living with ADHD, I've experienced firsthand the challenges of traditional education systems. This led me to create IntuitFlow, a web app that has already received positive feedback for increasing productivity and focus.
+One [recent study](https://www.researchgate.net/publication/330316898_The_MOOC_pivot) by MIT found that online courses not only had a **dropout rate of about 96%** over five years, on average, but that the vast majority of MOOC learners never returned after their first year.
+# The case for CBCs
 
-My diverse background - from challenging cultural norms to bootstrapping businesses - has equipped me with the resilience, creativity, and problem-solving skills necessary to tackle the complex issues in online education. 
-With IntuitFlow, I'm not just building a product; I'm on a mission to transform how people learn and teach in the digital age.
+>In 2015 Seth Godin co-founded the altMBA, a cohort-based course that distilled workplace “soft skills” into a four-week class CBC, they saw a [96 percent](https://medium.com/behavior-design/how-to-design-an-online-course-with-a-96-completion-rate-180678117a85) _completion rate_.
+
+Scarcity, Urgency and Guarantees are directly build into the delivery model
+
+it's {8 people} we start on {the 10th}, here are previous customers video testimonials
+
+high completion rates contribute to sales via _Word Of Mouth_ and more importantly due to the nature of live video calls it makes collecting video testimonials effortless.
+
+![](https://future.com/wp-content/uploads/2021/06/Kao_Cohort-Based_Courses_MOOCs_vs_CBC.jpg)
+community-driven, active feedback-based learning, is much more effective than solo, passive content consumption.
+
+ > [!NOTE]- stack of evidence on CBC out performing MOOC
+ > 1. cyclists perform better when around others, “bodily presence of another contestant participating simultaneously in the race serves to liberate latent energy not ordinarily available.”-Norman Triplett
+ (we can see further evidence in the popularity of Peloton’s social-exercise model today.)
+ > 2. Keith Humphreys, a Stanford professor of psychiatry and behavioral sciences who studied Alcoholics Anonymous, found that the group program was more effective at helping people maintain sobriety than therapy — which he attributed to the social interaction and collective emotional support. Social interaction helps students achieve their learning goals, too.
+ > 3. The clinical psychologist and professor of psychology Spencer Kagan [argues](https://www.amazon.ca/Kagan-Cooperative-Learning-Grades-450pp/dp/1879097109) that the single most powerful approach to comprehension and retention is **interactive processing**, which occurs when “students engage in interaction with partners or teammates over the content.” Part of the reason that this approach is so powerful is that classroom discussions and debates produce new ideas and points of view; that back-and-forth holds student attention in a way that no lecture can.
+ > 4. Bloom Tech (previously Lambda School) switched from MOOC to cohort even though they don't sell education they only make money once the students gets a job, they make students sign Income share agreements
+ > 5. YouTuber Ali Abdaal reportedly made $1.5 million in nine months with his cohort-based course compared to the $140,000 from three MOOCs over four years . 
+ > 6. Another example is Tiago Forte, founder of the productivity startup Forte Labs, who made $5 million in five years from his CBC
+
+How do you sell a $1500 CBC?
+youtubers don't like to "Shill" but in order to successfully sell anything you need **consistent re-occurring exposure to the offer**
+
+Email campaign, Community, Webinars, free lead magnets
+
+we do that FOR THEM so they can focus on making engaging content.
+
+## maintaining a community is draining 
+> [!NOTE]- modes of failure:
+>- the cause of broken communities is the leader gets burned out and stops showing up
+>- how can you sustain answering everyone all the time?
+>- ignore negative feedback
+>- ignore conflict
+>- stop showing up
+>- entrepreneurs get excited easily and get bored easily
+>- get overwhelmed by the community
+>- feel a heaviness from showing up to thousands of people on a regular basis
+>- "creating systems", "delegating", "scheduling", "scaling"
+>- but the truth is people are not excited managing a community
+>	- "i don't wanna be in my community"
+
+we provide
+- relationships
+- results
+- recognition
+to our communities
+
+> [!NOTE]- writing emails that don't end up on spam is also hard 
+>- tracking links are more likely to be flagged as spam.
+>- people are scare to bother their list with sending too many emails when in fact daily emails is most effective.
+>- Images make emails more likely to be flagged as spam or as commercial by the major ESPs. Even an innocent little 5 pixel image of your logo in the bottom of your signature triggers the same flag as an image of a bottle of penis pills that tells the ESPs, ISPs, and spam filters:
+> “This email has image content and we need to check it for porn, spam, & viruses.”
+>
+>- if one client’s email delivery on a particular platform is poor, it can effect everyone else on the platform’s delivery, too.
+
+we write good emails
+
+> "First capture the market for hard core athletes with innovative performance gear and the casual consumer will follow."- Knight's principle **Nike**
+
+what Shopify did for E-commerce we are doing for CBC
+
+we want to grow beyond that and create our own platform where the instructors, courses and community is all ours that's how we can build a $1B company
