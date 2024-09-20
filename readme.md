@@ -67,14 +67,22 @@ high completion rates contribute to sales via _Word Of Mouth_ and more important
 ![](https://future.com/wp-content/uploads/2021/06/Kao_Cohort-Based_Courses_MOOCs_vs_CBC.jpg)
 community-driven, active feedback-based learning, is much more effective than solo, passive content consumption.
 
- > [!NOTE]- stack of evidence on CBC out performing MOOC
- > 1. cyclists perform better when around others, “bodily presence of another contestant participating simultaneously in the race serves to liberate latent energy not ordinarily available.”-Norman Triplett
+
+<details>
+<summary> stack of evidence on CBC out performing MOOC </summary>
+1. cyclists perform better when around others, “bodily presence of another contestant participating simultaneously in the race serves to liberate latent energy not ordinarily available.”-Norman Triplett
  (we can see further evidence in the popularity of Peloton’s social-exercise model today.)
- > 2. Keith Humphreys, a Stanford professor of psychiatry and behavioral sciences who studied Alcoholics Anonymous, found that the group program was more effective at helping people maintain sobriety than therapy — which he attributed to the social interaction and collective emotional support. Social interaction helps students achieve their learning goals, too.
- > 3. The clinical psychologist and professor of psychology Spencer Kagan [argues](https://www.amazon.ca/Kagan-Cooperative-Learning-Grades-450pp/dp/1879097109) that the single most powerful approach to comprehension and retention is **interactive processing**, which occurs when “students engage in interaction with partners or teammates over the content.” Part of the reason that this approach is so powerful is that classroom discussions and debates produce new ideas and points of view; that back-and-forth holds student attention in a way that no lecture can.
- > 4. Bloom Tech (previously Lambda School) switched from MOOC to cohort even though they don't sell education they only make money once the students gets a job, they make students sign Income share agreements
- > 5. YouTuber Ali Abdaal reportedly made $1.5 million in nine months with his cohort-based course compared to the $140,000 from three MOOCs over four years . 
- > 6. Another example is Tiago Forte, founder of the productivity startup Forte Labs, who made $5 million in five years from his CBC
+	
+2. Keith Humphreys, a Stanford professor of psychiatry and behavioral sciences who studied Alcoholics Anonymous, found that the group program was more effective at helping people maintain sobriety than therapy — which he attributed to the social interaction and collective emotional support. Social interaction helps students achieve their learning goals, too.
+
+3. The clinical psychologist and professor of psychology Spencer Kagan [argues](https://www.amazon.ca/Kagan-Cooperative-Learning-Grades-450pp/dp/1879097109) that the single most powerful approach to comprehension and retention is **interactive processing**, which occurs when “students engage in interaction with partners or teammates over the content.” Part of the reason that this approach is so powerful is that classroom discussions and debates produce new ideas and points of view; that back-and-forth holds student attention in a way that no lecture can.
+
+4. Bloom Tech (previously Lambda School) switched from MOOC to cohort even though they don't sell education they only make money once the students gets a job, they make students sign Income share agreements
+
+5. YouTuber Ali Abdaal reportedly made $1.5 million in nine months with his cohort-based course compared to the $140,000 from three MOOCs over four years . 
+
+6. Another example is Tiago Forte, founder of the productivity startup Forte Labs, who made $5 million in five years from his CBC
+</details>
 
 How do you sell a $1500 CBC?
 youtubers don't like to "Shill" but in order to successfully sell anything you need **consistent re-occurring exposure to the offer**
@@ -83,19 +91,32 @@ Email campaign, Community, Webinars, free lead magnets
 
 we do that FOR THEM so they can focus on making engaging content.
 
-## maintaining a community is draining 
-> [!NOTE]- modes of failure:
->- the cause of broken communities is the leader gets burned out and stops showing up
->- how can you sustain answering everyone all the time?
->- ignore negative feedback
->- ignore conflict
->- stop showing up
->- entrepreneurs get excited easily and get bored easily
->- get overwhelmed by the community
->- feel a heaviness from showing up to thousands of people on a regular basis
->- "creating systems", "delegating", "scheduling", "scaling"
->- but the truth is people are not excited managing a community
->	- "i don't wanna be in my community"
+#### maintaining a community is draining 
+<details>
+<summary> modes of failure: </summary>
+
+- The cause of broken communities is the leader gets burned out and stops showing up
+
+- How can you sustain answering everyone all the time?
+
+- Ignore negative feedback
+
+- Ignore conflict
+
+- Stop showing up
+
+- Entrepreneurs get excited easily and get bored easily
+
+- Get overwhelmed by the community
+
+- Feel a heaviness from showing up to thousands of people on a regular basis
+
+- "creating systems", "delegating", "scheduling", "scaling"
+
+- But the truth is people are not excited managing a community
+
+	- "i don't wanna be in my community"
+</details>
 
 we provide
 - relationships
@@ -103,13 +124,18 @@ we provide
 - recognition
 to our communities
 
-> [!NOTE]- writing emails that don't end up on spam is also hard 
->- tracking links are more likely to be flagged as spam.
->- people are scare to bother their list with sending too many emails when in fact daily emails is most effective.
->- Images make emails more likely to be flagged as spam or as commercial by the major ESPs. Even an innocent little 5 pixel image of your logo in the bottom of your signature triggers the same flag as an image of a bottle of penis pills that tells the ESPs, ISPs, and spam filters:
-> “This email has image content and we need to check it for porn, spam, & viruses.”
->
->- if one client’s email delivery on a particular platform is poor, it can effect everyone else on the platform’s delivery, too.
+<details>
+<summary> writing emails that don't end up on spam is also hard </summary>
+
+- tracking links are more likely to be flagged as spam.
+
+- people are scare to bother their list with sending too many emails when in fact daily emails is most effective.
+
+- Images make emails more likely to be flagged as spam or as commercial by the major ESPs. Even an innocent little 5 pixel image of your logo in the bottom of your signature triggers the same flag as an image of a bottle of penis pills that tells the ESPs, ISPs, and spam filters:
+ “This email has image content and we need to check it for porn, spam, & viruses.”
+
+- if one client’s email delivery on a particular platform is poor, it can effect everyone else on the platform’s delivery, too.
+</details>
 
 we write good emails
 
